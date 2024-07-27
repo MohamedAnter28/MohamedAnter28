@@ -27,6 +27,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=Sass)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
